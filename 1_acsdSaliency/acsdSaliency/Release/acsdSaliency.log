@@ -1,0 +1,20 @@
+﻿  demo.cpp
+demo.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  2 of 368 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  acsdSaliency.vcxproj -> C:\Users\ELONSUN\Desktop\script\1_acsdSaliency\Release\acsdSaliency.exe
+  acsdSaliency.vcxproj -> C:\Users\ELONSUN\Desktop\script\1_acsdSaliency\Release\acsdSaliency.pdb (Full PDB)
+  .\bin\msvcr100.dll
+  .\bin\msvcr100d.dll
+  .\bin\opencv_core242.dll
+  .\bin\opencv_core242d.dll
+  .\bin\opencv_highgui242.dll
+  .\bin\opencv_highgui242d.dll
+  .\bin\opencv_imgproc242.dll
+  .\bin\opencv_imgproc242d.dll
+  .\bin\tbb.dll
+  .\bin\tbb_debug.dll
+  已复制        10 个文件。
